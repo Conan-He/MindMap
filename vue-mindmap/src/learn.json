@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Artificial Intelligence (AI)",
+    "children": [
+      {
+        "name": "Machine Learning (ML)",
+        "children": [
+          { "name": "Supervised Learning" },
+          { "name": "Unsupervised Learning" },
+          { "name": "Reinforcement Learning" }
+        ]
+      },
+      {
+        "name": "Deep Learning (DL)",
+        "children": [
+          { "name": "Neural Networks" },
+          { "name": "Image Recognition" },
+          { "name": "Natural Language Processing" }
+        ]
+      },
+      {
+        "name": "Natural Language Processing (NLP)",
+        "children": [
+          { "name": "Chatbots" },
+          { "name": "Translation" },
+          { "name": "Sentiment Analysis" }
+        ]
+      }
+    ]
+  }
+]
